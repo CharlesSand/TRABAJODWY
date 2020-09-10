@@ -1,0 +1,12 @@
+h2{
+    color:rgb(56, 150, 114);
+}
+h1{
+    color:lightseagreen;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,300;0,400;1,700&display=swap');
+body{
+    font-family: 'Grandstander', cursive;
+}
